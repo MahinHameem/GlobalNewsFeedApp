@@ -1,0 +1,29 @@
+Main Features/Functions:
+1)Fetch api data and convert them into models
+2)Display fetched API data
+3)Refresh API to fetch new data
+5)Open the URL of the content to view in the web
+6)Sorting authors in the alphabetical order
+7)Searching article by author's name
+8)Light/Dark Mode
+
+StateManagements for: 
+1)Loading State,
+2)loaded State,
+3)error states of a page,
+4)no results state,
+5)Sorted State
+
+Pages:
+1)Splash Screen
+2)Articles 
+3)Settings
+4)Community
+5)View Article
+
+Folder Structure Used: Clean Architecture
+
+Other libraries used:
+1)Flutter Bloc - For state management
+2)Dio - For api request callings
+3)Lottie Files
